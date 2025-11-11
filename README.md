@@ -1,25 +1,41 @@
-<h1 align="center">Hi 👋, I'm Mc Vincent Paredes</h1>
-<h3 align="center">A passionate frontend developer from The Philippines</h3>
+![Programmer Pixel](./assets/Programmer%20Pixel.gif)
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bakbak+One&size=25&pause=1000&color=FDCE00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mc+Vincent+Paredes" alt="Typing SVG" /></a>
+</p>
+<h3 align="center">💻 Software Developer | 🎨 UI & Graphic Designer | ⚡ Network Technician</h3>
+<h4 align="center">Designing, Building and Connecting the Digital World!</h4>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sample&label=Profile%20views&color=0e75b6&style=flat" alt="sample" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sample" alt="sample" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🌱 I’m currently learning **Sample**
+### 🧑‍💻 About Me
+- 🎓 **Information Technology Graduate** from The Philippines
+- 🌱 Currently learning **MERN Stack, Machine Learning, and Game Development**
+- 💡 Love solving **Design problems** and building **innovative solutions**
+- 🎯 Goal: To become a **Full-Stack Developer and Game Developer**
+- ⚡ Fun fact: **I spend more time designing my UI than naming my variables. 😅**
+- 💬 Ask me about **Frontend, Design and Art**
 
-- 👨‍💻 All of my projects are available at [Sample](Sample)
+### 🔥 Current Focus
+- 📚 Mastering **Full Stack Development**
+- 🌐 Building **Personal Projects**
 
-- 📝 I regularly write articles on [Sample](Sample)
 
-- 💬 Ask me about **Sample**
+### 📫 How to reach me **mcvincentparedes@gmail.com** 
+<!-- - 👨‍💻 All of my projects are available at [Sample](Sample) -->
+<!-- - 📄 Know about my experiences [Sample](Sample) -->
 
-- 📫 How to reach me **Sample**
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 📄 Know about my experiences [Sample](Sample)
+### 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EmsiPrds" alt="sample" /></a> </p>
 
-- ⚡ Fun fact **Sample**
-
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sample" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sample" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sample" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sample" height="30" width="40" /></a>
@@ -36,5 +52,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sample&show_icons=true&locale=en" alt="sample" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sample&" alt="sample" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sample&" alt="sample" /></p> -->
 
