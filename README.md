@@ -38,7 +38,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,bootstrap,wordpress,webflow&theme=light" />
 <img width="45px" src="https://ionicacademy.com/wp-content/uploads/2020/02/ionic-Logo.svg"/>
 <img width="45px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elementor-icon.png"/>
-<img src="">
 </p>
 
 ### ⚙️🗄️ Backend and Database
