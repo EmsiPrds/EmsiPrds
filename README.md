@@ -9,8 +9,6 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sample&label=Profile%20views&color=0e75b6&style=flat" alt="sample" /> </p>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 ### 🧑 About Me
@@ -108,7 +106,7 @@
 
 **✨ Thanks for visiting my profile! 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=EmsiPrds&label=Profile%20views&color=0e75b6&style=flat"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sample&label=Profile%20views&color=0e75b6&style=flat" alt="sample" /> </p>
 
 </div>
 
